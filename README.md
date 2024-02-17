@@ -40,7 +40,7 @@ Start the server
 ```bash
   npm run start
 ```
-Start the Client
+Start the client
 
 ```bash
   //open now terminal
