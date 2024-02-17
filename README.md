@@ -21,7 +21,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Mern-Chat-App
+  cd MERN-Chat-App
 ```
 
 Install dependencies
