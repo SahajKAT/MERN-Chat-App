@@ -66,12 +66,15 @@ https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/edce5e7c-d4cd-490e-b2
 
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Developed by
 
+### View Another User's Profile
+<img width="1736" alt="Screenshot 2024-02-17 at 2 46 34 AM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/8bc5a613-9091-4c51-9d6c-b5c81bef81a7">
+
+### Developed by
 [SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)  
