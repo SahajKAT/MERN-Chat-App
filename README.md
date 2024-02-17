@@ -1,6 +1,6 @@
-# Chatter-Box
+# Quix-Chat
 
-Welcome to Chatter Box, a full-stack chat application designed for efficient real-time communication. Utilizing Socket.io for instantaneous messaging and MongoDB for secure data storage, Chatter Box provides a robust platform for seamless chatting experiences.
+Welcome to Quix-Chat, a full-stack chat application designed for efficient real-time communication. Utilizing Socket.io for instantaneous messaging and MongoDB for secure data storage, Chatter Box provides a robust platform for seamless chatting experiences.
 ## Tech Stack
 
 **Client:** React JS
