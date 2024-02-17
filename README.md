@@ -60,8 +60,9 @@ https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/edce5e7c-d4cd-490e-b2
 
 ### Direct Conversation
 <img width="1507" alt="Screenshot 2024-02-16 at 11 19 58 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/6b389866-3557-4f6f-b40b-7d97dbe56e3f">
+
 ### Search Users
-![Search_User](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/abdb6662-20d0-4ec4-8b8d-cec1bc5827af)
+<img width="1127" alt="Screenshot 2024-02-16 at 11 21 58 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/03fc0958-259b-4f62-aa26-d9d3da607852">
 
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
