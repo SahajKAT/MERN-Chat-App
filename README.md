@@ -15,7 +15,7 @@ Welcome to Quix-Chat, a full-stack chat application for real-time communication.
 Clone the project
 
 ```bash
-  git clone git clone https://github.com/SahajKAT/MERN-Chat-App.git
+  git clone https://github.com/SahajKAT/MERN-Chat-App.git
 ```
 
 Go to the project directory
