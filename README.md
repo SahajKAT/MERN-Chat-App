@@ -52,7 +52,7 @@ Start the client
 # Features
 
 ### User Authenticaton
-<img width="1000" height="200" alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
+<img width="1000" height="400" alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
 <img width="1000" height="600" alt="Screenshot 2024-02-16 at 8 34 32 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/37079351-acf2-4f8d-bd7b-c29e44c93771">
 
 ### Real-Time Chat Experience with Typing Indicators Powered by Socket.IO
