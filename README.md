@@ -74,4 +74,4 @@ https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/edce5e7c-d4cd-490e-b2
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)  
