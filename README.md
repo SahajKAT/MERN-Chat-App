@@ -54,10 +54,12 @@ Start the client
 ### User Authenticaton
 <img width="1517" alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
 <img width="1507" alt="Screenshot 2024-02-16 at 8 34 32 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/37079351-acf2-4f8d-bd7b-c29e44c93771">
+
 ### Real Time Chatting with Typing indicators
 https://github.com/MAQ030/MERN-Chat-App/assets/156931518/1ce6b64c-3614-4844-8531-956cbef7189b
+
 ### Direct Conversation
-https://github.com/MAQ030/MERN-Chat-App/assets/156931518/1ce6b64c-3614-4844-8531-956cbef7189b
+<img width="870" alt="Screenshot 2024-02-16 at 11 19 58 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/6b389866-3557-4f6f-b40b-7d97dbe56e3f">
 ### Search Users
 ![Search_User](https://github.com/MAQ030/MERN-Chat-App/assets/156931518/abdb6662-20d0-4ec4-8b8d-cec1bc5827af)
 
