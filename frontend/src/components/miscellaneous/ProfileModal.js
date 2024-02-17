@@ -50,7 +50,7 @@ const ProfileModal = ({user, children}) => {
               objectFit="cover"
             />
             <Text
-              fontSize={{ base: "16px", md: "16px" }}
+              fontSize={{ base: "14px", md: "14px" }}
               fontFamily= "monospace"
               //fontFamily="'Raleway', sans-serif" // Use a different font family
               fontWeight="medium"
