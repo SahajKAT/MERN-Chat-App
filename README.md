@@ -56,7 +56,7 @@ Start the client
 <img width="1507" alt="Screenshot 2024-02-16 at 8 34 32 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/37079351-acf2-4f8d-bd7b-c29e44c93771">
 
 ### Real-Time Chat Experience with Typing Indicators Powered by Socket.IO
-https://github.com/MAQ030/MERN-Chat-App/assets/156931518/1ce6b64c-3614-4844-8531-956cbef7189b
+https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/edce5e7c-d4cd-490e-b242-6b16123871e7
 
 ### Direct Conversation
 <img width="1507" alt="Screenshot 2024-02-16 at 11 19 58 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/6b389866-3557-4f6f-b40b-7d97dbe56e3f">
