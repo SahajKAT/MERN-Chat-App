@@ -44,7 +44,7 @@ Start the client
 
 ```bash
   //open now terminal
-  cd frontend
+  cd frontend/
   npm start
 ```
 
