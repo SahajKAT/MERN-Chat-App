@@ -52,25 +52,8 @@ Start the client
 # Features
 
 ### User Authenticaton
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Add border-radius to images */
-        img {
-            border-radius: 10px; /* You can adjust the value as needed */
-        }
-    </style>
-    <title>Your Webpage Title</title>
-</head>
-<body>
-    <!-- Replace the image URLs with your valid URLs -->
-    <img width="1517" alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
-    <img width="1507" alt="Screenshot 2024-02-16 at 8 34 32 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/37079351-acf2-4f8d-bd7b-c29e44c93771">
-</body>
-</html>
+<img width="1517" alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
+<img width="1507" alt="Screenshot 2024-02-16 at 8 34 32 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/37079351-acf2-4f8d-bd7b-c29e44c93771">
 ### Real Time Chatting with Typing indicators
 https://github.com/MAQ030/MERN-Chat-App/assets/156931518/1ce6b64c-3614-4844-8531-956cbef7189b
 ### Direct Conversation
