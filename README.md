@@ -48,7 +48,7 @@ Start the client
   npm start
 ```
   
-# Features
+## Features
 
 #### User Authentication
 <img width="1000"  alt="Screenshot 2024-02-16 at 8 34 23 PM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/be10ea25-0ede-49a2-964d-e497be779972">
