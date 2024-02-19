@@ -75,5 +75,6 @@ https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/edce5e7c-d4cd-490e-b2
 #### Explore Profiles: View User Information
 <img width="1736" alt="Screenshot 2024-02-17 at 2 46 34 AM" src="https://github.com/SahajKAT/MERN-Chat-App/assets/113306405/8bc5a613-9091-4c51-9d6c-b5c81bef81a7">
 
-#### Developed by
-[SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)  
+## Developed By
+
+[MAQ030](https://github.com/MAQ030) and [SahajKAT](https://github.com/SahajKAT)
